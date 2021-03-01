@@ -18,6 +18,6 @@ int main()
 	   Sleep(1000);
        cout << liczba << "\a" << endl;
     }
-	return 0;
+	
 	
 }
